@@ -1,8 +1,16 @@
-# React + Vite
+## 🎶 React Music Player
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A dynamic and interactive music player built with React and Context API. This project allows users to select, play, and manage songs with a responsive UI.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-> Song Selection: Click on any song to play it.
+->Active Song Highlighting: Visual feedback for the currently playing song.
+-> Global State Management: Using React Context API to manage song playback and active state across components.
+-> Responsive Design: Optimized for both desktop and mobile views.
+
+## 🖥️ Technologies Used
+
+-> React: A JavaScript library for building user interfaces.
+-> Context API: For state management across components.
+-> TailwindCSS: For rapid styling and responsive layouts.
